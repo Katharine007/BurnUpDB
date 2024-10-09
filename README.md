@@ -1,9 +1,11 @@
 # BurnUpDB (Gym Management Website)
-1.Project Overview The Gym Management System is a web application designed to help gyms manage their members, workouts, and classes efficiently. It allows users to register, log in and track their fitness progress. The project is built using HTML, CSS, PHP, and JavaScript, ensuring a user-friendly experience. 
+![image](https://github.com/user-attachments/assets/54fc4b27-7b30-4302-a82a-bb3689b5c8d2)
 
-2. Key Features User Registration and Login: Members can create accounts and log in securely and perform payment with basic JS validations.
+Project Overview The Gym Management System is a web application designed to help gyms manage their outreach and memberships. The project is built using HTML, CSS, PHP, and JavaScript, ensuring a user-friendly experience. 
+
+User Registration and Login: Members can create accounts and log in securely and perform payment with basic JS validations.
    
-4. Technologies Used 
+Technologies Used:
 Frontend: 
    HTML & CSS: For structuring and styling the web pages. 
    JavaScript: To enhance interactivity and validate user inputs. 
